@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://hsinaditam.github.io/MVQN_HANGMAN/pp/</loc>
+</url>
+<url>
 <loc>https://hsinaditam.github.io/MVQN_HANGMAN/about/</loc>
 </url>
 <url>
@@ -11,5 +14,9 @@
 </url>
 <url>
 <loc>https://hsinaditam.github.io/MVQN_HANGMAN/categories/</loc>
+</url>
+<url>
+<loc>https://hsinaditam.github.io/MVQN_HANGMAN/_pages/ScrumBoard.html</loc>
+<lastmod>2022-11-04T13:57:02-05:00</lastmod>
 </url>
 </urlset>
